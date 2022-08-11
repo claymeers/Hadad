@@ -183,6 +183,10 @@ function fetchWeatherData() {
         })
 }
 
+
+// Fade out the app (simple animation)
+app.style.opacity = '0'
+
 // Call the function on the page load
 fetchWeatherData()
 
