@@ -16,9 +16,9 @@ Hadad, also spelled Had, Hadda, or Haddu, the Old Testament Rimmon, West Semitic
 What's the point? - None 😜
 Just a cool weather app
 
-[Checkout the demo](https://trickytoe-smakager.netlify.app/)
+[Checkout the demo](https://hadad-weather-blan.netlify.app/)
 
-[![screenshot](Img/preview.png)](https://trickytoe-smakager.netlify.app/)
+[![screenshot](Img/preview.png)](https://hadad-weather-blan.netlify.app/)
 
 ### Built With
 
