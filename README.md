@@ -1,4 +1,4 @@
-<h1 align="center">Hadad <h1 align="center">Tricky toe 🎮</h1>
+<h1 align="center">Hadad 🌥</h1>
 
 ## Table of Contents
 
